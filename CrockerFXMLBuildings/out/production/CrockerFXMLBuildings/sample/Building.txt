@@ -1,0 +1,8 @@
+Jamestown Davis_Hall 35.998172 -79.918971 dh_ext_side.png DH
+Jamestown Applied_Technologies 35.999081 -79.917802 at_ext_back.png AT
+Jamestown James_Williams_Hall 35.99766 -79.917963 jwh_ext_court_door.png JWH
+Jamestown Emergency_Responder_Training 36.001754 -79.912974 etrc1_ext.png ERTC
+Jamestown Public_Safety 36.000662 -79.915887 ps_ext_lot.png PS
+Jamestown Cline_Observatory 35.999235 -79.915739 co_ext_front.png CO
+Jamestown Auto_Body 35.999063 -79.914132 autobody_ext_bays.png AB
+Jamestown Science_Hall 35.998584 -79.915347 sh_ext_front.png SH
